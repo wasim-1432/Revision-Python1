@@ -1,0 +1,1 @@
+print('"Galgotias College Of Engineering And Technology"')
